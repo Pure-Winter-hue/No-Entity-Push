@@ -1,0 +1,9 @@
+{
+  "type": "code",
+  "modid": "noentitypush",
+  "name": "No Entity Push",
+  "description": "Disables the repulseagents behavior on non-player entities so players don't get shoved off when standing on them.",
+  "authors": ["Pure Winter"],
+  "version": "1.0.0",
+  "dependencies": { "game": "1.21.0" }
+}
